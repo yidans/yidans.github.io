@@ -13,8 +13,8 @@ author_profile: true
   
 # Publications
 
-- Sun, Y., & Kejriwal, M. (2023). A structural study of Big Tech firm-switching of inventors in the post-recession era. *In Proceedings of the International Conference on Advances in Social Networks Analysis and Mining* (pp. 670-677).  
-- Sun, Y., & Kejriwal, M. (2023). DeepGraph: Multi-Cluster Interactive Visualization of Complex Networks in a Learned Representation Space. *In Proceedings of the International Conference on Advances in Social Networks Analysis and Mining* (pp. 427-430).  
+- Sun, Y., & Kejriwal, M. (2023). [A structural study of Big Tech firm-switching of inventors in the post-recession era](https://arxiv.org/pdf/2307.07920). *In Proceedings of the International Conference on Advances in Social Networks Analysis and Mining* (pp. 670-677).  
+- Sun, Y., & Kejriwal, M. (2023). [DeepGraph: Multi-Cluster Interactive Visualization of Complex Networks in a Learned Representation Space](https://dl.acm.org/doi/pdf/10.1145/3625007.3627515). *In Proceedings of the International Conference on Advances in Social Networks Analysis and Mining* (pp. 427-430).  
 
 ---
 
