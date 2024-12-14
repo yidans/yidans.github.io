@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yidan Sun's personal website"
+title: "Yidan Sun"
 author_profile: true
 redirect_from: 
   - /about/
