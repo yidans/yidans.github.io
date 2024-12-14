@@ -20,11 +20,11 @@ author_profile: true
 
 # Under Review
 
+- Sun, Y., & Kejriwal, M. (2024). A study of firm-switching of inventors in Big Tech using public patent data, book chapter in *Social Network Analysis and Mining Applications in Healthcare and Anomaly Detection*, 2024. 
 - Gawin, C., Sun, Y., & Kejriwal, M. (2023). Navigating Semantic Relations: Challenges for Language Models in Abstract Common-Sense Reasoning, under review at *The Web Conference (TheWebConf)*, 2024.  
 - Patil, V., Bacha, S. V., Yamani, R., Sun, Y., & Kejriwal, M. (2024). Beyond the Star Rating: A Scalable Framework for Aspect-Based Sentiment Analysis Using LLMs and Text Classification, under review at *Journal of Computational Social Science*, 2024.  
 - Sun, Y., & Kejriwal, M. (2024). Structural modeling of campaign finance decisions in the US House of Representatives, under review at *NPJ Complexity*, 2024.  
-- Sun, Y., & Kejriwal, M. (2024). Is climate identity as polarized as political identity?, under review at *NPJ Climate Action*, 2024.  
-- Sun, Y., & Kejriwal, M. (2024). A study of firm-switching of inventors in Big Tech using public patent data, book chapter in *Springer Lecture Notes on Social Networks*, 2024.  
+- Sun, Y., & Kejriwal, M. (2024). Is climate identity as polarized as political identity?, under review at *NPJ Climate Action*, 2024.   
 
 ---
 
