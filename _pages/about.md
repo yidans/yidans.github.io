@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Yidan Sun, and I am currently a second-year PhD student in Industrial and Systems Engineering at the USC Viterbi School of Engineering. I am a member of the Artificial Intelligence and Complex Systems ([AICS](https://aicomplex.github.io/)) group, led by Dr. [Mayank Kejriwal](https://viterbi.usc.edu/directory/faculty/Kejriwal/Mayank). My research focuses on the intersection of complex systems, network science, and computational social science.
+Hi! My name is Yidan Sun, and I am currently a second-year PhD student in Industrial and Systems Engineering at the USC Viterbi School of Engineering. I am a member of the Artificial Intelligence and Complex Systems ([AICS](https://aicomplex.github.io/)) group at USC Information Sciences Institute, led by Dr. [Mayank Kejriwal](https://viterbi.usc.edu/directory/faculty/Kejriwal/Mayank). My research focuses on the intersection of complex systems, network science, and computational social science.
 
-
+Feel free to reach out to me at yidans@usc.edu / yidans@isi.edu
 
 ## News
 - **Nov 3, 2024**: My study, *"A Study of Firm-Switching of Inventors in Big Tech Using Public Patent Data,"* will be included as Chapter 12 in Springer’s *Social Network Analysis and Mining Applications in Healthcare and Anomaly Detection.*
