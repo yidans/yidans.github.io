@@ -7,6 +7,9 @@ author_profile: true
 
 
   <div class="wordwrap">My publications can also be found at <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+
+---
+  
   
 # Publications
 
