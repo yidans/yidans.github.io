@@ -6,13 +6,13 @@ author_profile: true
 ---
 
 ## Poster presentation at Southern California Applied Mathematics Symposium (UC Irvine)
-![SOCAMS](../images/SOCAMS.jpg "SOCAMS"){: .small-img }
+<img src="../images/SOCAMS.jpg" alt="SOCAMS" title="SOCAMS" style="max-width: 50%; height: auto;">
 
 ## Presentation at ASONAM in Kusadasi, Turkey  
-![Presentation at ASONAM](../images/ASONAM2023.JPG "Presentation at ASONAM 2023"){: .small-img }
+<img src="../images/ASONAM2023.JPG" alt="Presentation at ASONAM 2023" title="Presentation at ASONAM 2023" style="max-width: 50%; height: auto;">
 
 ## Received Jenny Wang Teaching Award  
-![Jenny Wang Teaching Award](../images/JennyWang.JPG "Jenny Wang Teaching Award"){: .small-img }
+<img src="../images/JennyWang.JPG" alt="Jenny Wang Teaching Award" title="Jenny Wang Teaching Award" style="max-width: 50%; height: auto;">
 
 ## Awarded ISE Outstanding Teaching Assistant of the Year  
-![ISETA](../images/ISETA.jpg "ISETA"){: .small-img }
+<img src="../images/ISETA.jpg" alt="ISETA" title="ISETA" style="max-width: 50%; height: auto;">
