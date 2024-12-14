@@ -13,9 +13,9 @@ Feel free to reach out to me at yidans@usc.edu / yidans@isi.edu
 
 ## News
 - **Nov 3, 2024**: My study, *"A Study of Firm-Switching of Inventors in Big Tech Using Public Patent Data,"* will be included as Chapter 12 in Springer’s *Social Network Analysis and Mining Applications in Healthcare and Anomaly Detection.*
-- **Sep 3, 2024**: Passed the screening exam with my presentation titled *"Structural Modeling of Campaign Money Flow in the United States House of Representatives."*
+- **Sep 3, 2024**: Passed the ISE PhD screening exam with my presentation titled *"Structural Modeling of Campaign Money Flow in the United States House of Representatives."*
 - **May 2, 2024**: Received the *Jenny Wang Excellence in Teaching Award* from the USC Viterbi School of Engineering.
-- **April 28, 2024**: Honored as the *Best Teaching Assistant* in Industrial and Systems Engineering.
+- **April 28, 2024**: Honored as the *Outstanding Teaching Assistant of the Year* by the Daniel J. Epstein Department of Industrial and Systems Engineering.
 - **November 6, 2024**: Presented two papers at [The 2023 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining](https://asonam.cpsc.ucalgary.ca/2023/) in Kusadasi, Turkey.
 - **November 4, 2024**: Press article on patent networks in Big Tech published. Learn more: [Big Tech Inventor Mobility Leads to Higher Productivity](https://www.isi.edu/news/60985/big-tech-inventor-mobility-leads-to-higher-productivity/).
 
