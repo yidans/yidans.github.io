@@ -5,8 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+
+  <div class="wordwrap">My publications can also be found at <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  
 # Publications
 
 - Sun, Y., & Kejriwal, M. (2023). A structural study of Big Tech firm-switching of inventors in the post-recession era. *In Proceedings of the International Conference on Advances in Social Networks Analysis and Mining* (pp. 670-677).  
