@@ -16,6 +16,6 @@ Feel free to reach out to me at yidans@usc.edu / yidans@isi.edu
 - **Sep 3, 2024**: Passed the ISE PhD screening exam with my presentation titled *"Structural Modeling of Campaign Money Flow in the United States House of Representatives."*
 - **May 2, 2024**: Received the *Jenny Wang Excellence in Teaching Award* from the USC Viterbi School of Engineering.
 - **April 28, 2024**: Honored as the *Outstanding Teaching Assistant of the Year* by the Daniel J. Epstein Department of Industrial and Systems Engineering.
-- **November 6, 2024**: Presented two papers at [The 2023 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining](https://asonam.cpsc.ucalgary.ca/2023/) in Kusadasi, Turkey.
-- **November 4, 2024**: Press article on patent networks in Big Tech published. Learn more: [Big Tech Inventor Mobility Leads to Higher Productivity](https://www.isi.edu/news/60985/big-tech-inventor-mobility-leads-to-higher-productivity/).
+- **November 6, 2023**: Presented two papers at [The 2023 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining](https://asonam.cpsc.ucalgary.ca/2023/) in Kusadasi, Turkey.
+- **November 4, 2023**: Press article on patent networks in Big Tech published. Learn more: [Big Tech Inventor Mobility Leads to Higher Productivity](https://www.isi.edu/news/60985/big-tech-inventor-mobility-leads-to-higher-productivity/).
 
