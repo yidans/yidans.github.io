@@ -65,6 +65,12 @@ redirect_from:
 
 # Industry Experience
 
+**USC Information Sciences Institute**  
+*Marina del Rey, CA, USA*  
+- **Research Engineer** *(May 2021 – Sep. 2021)*  
+  - Contributed to research within the Artificial Intelligence and Complex Systems (AICS) group
+  - Designed and executed experiments and collaborated on academic publications, including drafting manuscripts and preparing experimental results. 
+
 **Datago Technology Limited**  
 *Hong Kong*  
 - **Quantitative Researcher Intern** *(May 2021 – Sep. 2021)*  
