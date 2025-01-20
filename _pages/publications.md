@@ -12,16 +12,18 @@ author_profile: true
   
   
 # Publications
-
+- Sun, Y., & Kejriwal, M. (2024). [A study of firm-switching of inventors in Big Tech using public patent data](https://link.springer.com/chapter/10.1007/978-3-031-75204-9_12) Book chapter in *Social Network Analysis and Mining Applications in Healthcare and Anomaly Detection*, 2024. 
 - Sun, Y., & Kejriwal, M. (2023). [A structural study of Big Tech firm-switching of inventors in the post-recession era](https://arxiv.org/pdf/2307.07920). *In Proceedings of the International Conference on Advances in Social Networks Analysis and Mining* (pp. 670-677).  
 - Sun, Y., & Kejriwal, M. (2023). [DeepGraph: Multi-Cluster Interactive Visualization of Complex Networks in a Learned Representation Space](https://dl.acm.org/doi/pdf/10.1145/3625007.3627515). *In Proceedings of the International Conference on Advances in Social Networks Analysis and Mining* (pp. 427-430).  
+
+---
+# Accepted
+- Gawin, C., Sun, Y., & Kejriwal, M. (2023). Navigating Semantic Relations: Challenges for Language Models in Abstract Common-Sense Reasoning, under review at *The Web Conference (TheWebConf)*, 2024.
 
 ---
 
 # Under Review
 - Sun, Y. (2024). Scalable Estimation of Exponential Random Graph Models on Large Networks, under review at *The Web Conference (TheWebConf)*, 2024.  
-- Gawin, C., Sun, Y., & Kejriwal, M. (2023). Navigating Semantic Relations: Challenges for Language Models in Abstract Common-Sense Reasoning, under review at *The Web Conference (TheWebConf)*, 2024.
-- Sun, Y., & Kejriwal, M. (2024). A study of firm-switching of inventors in Big Tech using public patent data, book chapter in *Social Network Analysis and Mining Applications in Healthcare and Anomaly Detection*, 2024 (in editorial preparation). 
 - Patil, V., Bacha, S. V., Yamani, R., Sun, Y., & Kejriwal, M. (2024). Beyond the Star Rating: A Scalable Framework for Aspect-Based Sentiment Analysis Using LLMs and Text Classification, under review at *Journal of Computational Social Science*, 2024.  
 - Sun, Y., & Kejriwal, M. (2024). Structural modeling of campaign finance decisions in the US House of Representatives, under review at *NPJ Complexity*, 2024.  
 - Sun, Y., & Kejriwal, M. (2024). Is climate identity as polarized as political identity?, under review at *NPJ Climate Action*, 2024.   
