@@ -37,7 +37,7 @@ redirect_from:
 
 **University of Southern California**  
 - **Teaching Assistant:**  
-  - ISE 540: Text Analytics *(Fall 2023)*  
+  - ISE 540: Text Analytics *(Fall 2023, Spring 2025)*  
 
 ---
 
