@@ -12,7 +12,8 @@ Hi! My name is Yidan Sun, and I am currently a second-year PhD student in Indust
 Feel free to reach out to me at yidans@usc.edu / yidans@isi.edu
 
 ## News
-- **Nov 3, 2024**: My study, *"A Study of Firm-Switching of Inventors in Big Tech Using Public Patent Data,"* will be included as Chapter 12 in Springer’s *Social Network Analysis and Mining Applications in Healthcare and Anomaly Detection.*
+- **Jan 20, 2024**: Our work, *"Navigating Semantic Relations: Challenges for Language Models in Abstract Common-Sense Reasoning"* has been accepted for presentation in the Short Paper track at TheWebConference 2025.
+- **Dec 24, 2024**: My study, *"A Study of Firm-Switching of Inventors in Big Tech Using Public Patent Data,"* has been published as Chapter 12 in Springer’s *Social Network Analysis and Mining Applications in Healthcare and Anomaly Detection.*
 - **Sep 3, 2024**: Passed the ISE PhD screening exam with my presentation titled *"Structural Modeling of Campaign Money Flow in the United States House of Representatives."*
 - **May 2, 2024**: Received the *Jenny Wang Excellence in Teaching Award* from the USC Viterbi School of Engineering.
 - **April 28, 2024**: Honored as the *Outstanding Teaching Assistant of the Year* by the Daniel J. Epstein Department of Industrial and Systems Engineering.
