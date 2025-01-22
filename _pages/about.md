@@ -12,7 +12,7 @@ Hi! My name is Yidan Sun, and I am currently a second-year PhD student in Indust
 Feel free to reach out to me at yidans@usc.edu / yidans@isi.edu
 
 ## News
-- **Jan 22, 2024**: My paper, Scalable Estimation of Exponential Random Graph Models on Large Networks, has been accepted for presentation in the PhD Symposium at TheWebConference 2025 in Sydney.
+- **Jan 22, 2024**: My paper, Scalable Estimation of Exponential Random Graph Models on Large Networks, has been accepted for presentation in the PhD Symposium at TheWebConference 2025.
 - **Jan 20, 2024**: Our work, *"Navigating Semantic Relations: Challenges for Language Models in Abstract Common-Sense Reasoning"* has been accepted for presentation in the Short Paper track at TheWebConference 2025.
 - **Dec 24, 2024**: My study, *"A Study of Firm-Switching of Inventors in Big Tech Using Public Patent Data,"* has been published as Chapter 12 in Springer’s *Social Network Analysis and Mining Applications in Healthcare and Anomaly Detection.*
 - **Sep 3, 2024**: Passed the ISE PhD screening exam with my presentation titled *"Structural Modeling of Campaign Money Flow in the United States House of Representatives."*
