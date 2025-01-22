@@ -18,12 +18,12 @@ author_profile: true
 
 ---
 # Accepted
-- Gawin, C., Sun, Y., & Kejriwal, M. (2023). Navigating Semantic Relations: Challenges for Language Models in Abstract Common-Sense Reasoning, under review at *The Web Conference (TheWebConf)*, 2024.
+- Sun, Y. (2025). Scalable Estimation of Exponential Random Graph Models on Large Networks, under review at *The Web Conference (TheWebConf)*, 2025.  
+- Gawin, C., Sun, Y., & Kejriwal, M. (2025). Navigating Semantic Relations: Challenges for Language Models in Abstract Common-Sense Reasoning, under review at *The Web Conference (TheWebConf)*, 2025.
 
 ---
 
-# Under Review
-- Sun, Y. (2024). Scalable Estimation of Exponential Random Graph Models on Large Networks, under review at *The Web Conference (TheWebConf)*, 2024.  
+# Under Review 
 - Patil, V., Bacha, S. V., Yamani, R., Sun, Y., & Kejriwal, M. (2024). Beyond the Star Rating: A Scalable Framework for Aspect-Based Sentiment Analysis Using LLMs and Text Classification, under review at *Journal of Computational Social Science*, 2024.  
 - Sun, Y., & Kejriwal, M. (2024). Structural modeling of campaign finance decisions in the US House of Representatives, under review at *NPJ Complexity*, 2024.  
 - Sun, Y., & Kejriwal, M. (2024). Is climate identity as polarized as political identity?, under review at *NPJ Climate Action*, 2024.   
