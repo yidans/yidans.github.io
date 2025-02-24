@@ -24,9 +24,9 @@ author_profile: true
 ---
 
 # Under Review 
-- Patil, V., Bacha, S. V., Yamani, R., Sun, Y., & Kejriwal, M. (2024). Beyond the Star Rating: A Scalable Framework for Aspect-Based Sentiment Analysis Using LLMs and Text Classification, under review at *Journal of Computational Social Science*, 2024.  
-- Sun, Y., & Kejriwal, M. (2024). Structural modeling of campaign finance decisions in the US House of Representatives, under review at *NPJ Complexity*, 2024.  
-- Sun, Y., & Kejriwal, M. (2024). Is climate identity as polarized as political identity?, under review at *NPJ Climate Action*, 2024.   
+- Patil, V., Bacha, S. V., Yamani, R., Sun, Y., & Kejriwal, M. (2024). Beyond the Star Rating: A Scalable Framework for Aspect-Based Sentiment Analysis Using LLMs and Text Classification. Under review at *Journal of Computational Social Science*, 2024.  
+- Sun, Y., & Kejriwal, M. (2024). Structural modeling of campaign finance decisions in the US House of Representatives. Under review at *NPJ Complexity*, 2024.  
+- Sun, Y., & Kejriwal, M. (2024). Backlash or Reinforcement? Donald Trump’s 2017 Inauguration and Shifting Climate Beliefs in the United States. Minor revision at *NPJ Climate Action*, 2024.   
 
 ---
 
