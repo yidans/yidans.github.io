@@ -16,6 +16,8 @@ Prior to my doctoral studies, I earned my master's degree in Analytics from USC 
 Feel free to reach out to me at yidans@usc.edu / yidans@isi.edu
 
 ## News
+- **Feb 21, 2025**:  I will present our work, *"Understanding the Drivers of Human Trafficking Using Massive Multi-Partite Network Modeling and Analytics,"* at USC’s Cloudwalkers Premiere on March 11, 2025.
+- **Feb 20, 2025**: I will present our work, *"AI Reveals Systemic Financial Inequities: A Study of CFPB Complaints for Older Adults and Veterans"* at USC’s ShowCAIS Symposium on April 11, 2025.
 - **Jan 22, 2025**: My paper, *"Scalable Estimation of Exponential Random Graph Models on Large Networks"*, has been accepted for presentation in the PhD Symposium at TheWebConference 2025.
 - **Jan 20, 2025**: Our work, *"Navigating Semantic Relations: Challenges for Language Models in Abstract Common-Sense Reasoning"* has been accepted for presentation in the Short Paper track at TheWebConference 2025.
 - **Dec 24, 2024**: My study, *"A Study of Firm-Switching of Inventors in Big Tech Using Public Patent Data,"* has been published as Chapter 12 in Springer’s *Social Network Analysis and Mining Applications in Healthcare and Anomaly Detection.*
