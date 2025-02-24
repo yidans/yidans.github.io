@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Yidan Sun, and I am currently a second-year PhD student in Industrial and Systems Engineering at the USC Viterbi School of Engineering. I am a member of the Artificial Intelligence and Complex Systems ([AICS](https://aicomplex.github.io/)) group at USC Information Sciences Institute, working under the supervision of Dr. [Mayank Kejriwal](https://viterbi.usc.edu/directory/faculty/Kejriwal/Mayank).
+Hi! My name is Yidan Sun, and I am a second-year PhD student in the [Daniel J. Epstein Department of Industrial & Systems Engineering](https://ise.usc.edu/) at the Viterbi School of Engineering, University of Southern California. I am a member of the Artificial Intelligence and Complex Systems ([AICS](https://aicomplex.github.io/)) group at USC Information Sciences Institute, working under the supervision of Dr. [Mayank Kejriwal](https://viterbi.usc.edu/directory/faculty/Kejriwal/Mayank).
 
 My research interests span complex systems, network science, and computational social science. I am particularly interested in analyzing large-scale complex systems, with my current primary focus on using computational approaches to study human trafficking. My other ongoing research projects explore science of science topics, including collaboration networks focusing on scholarly publications and grant proposals, and broader social science topics, such as internal migration in the United States and financial inequities among vulnerable populations.
 
-Prior to my doctoral studies, I earned my master's degree in Analytics from USC in 2022 and my bachelor's degree in Statistics from The Chinese University of Hong Kong, Shenzhen, in 2020.
+Prior to my doctoral studies, I earned my master's degree in Analytics from USC in 2022 and my bachelor's degree in Statistics from [The Chinese University of Hong Kong, Shenzhen](https://sds.cuhk.edu.cn/en), in 2020.
 
 Feel free to reach out to me at yidans@usc.edu / yidans@isi.edu
 
