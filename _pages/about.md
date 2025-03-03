@@ -16,6 +16,7 @@ Prior to my doctoral studies, I earned my master's degree in Analytics from USC 
 Feel free to reach out to me at yidans@usc.edu / yidans@isi.edu
 
 ## News
+- **Feb 26, 2025**: Our work, *"Backlash or Reinforcement? Donald Trump’s 2017 Inauguration and Shifting Climate Beliefs in the United States,"* has been accepted for publication in *NPJ Climate Action*
 - **Feb 21, 2025**: I will present our work, *"Understanding the Drivers of Human Trafficking Using Massive Multi-Partite Network Modeling and Analytics,"* at USC’s Cloudwalkers Premiere on March 11, 2025.
 - **Feb 20, 2025**: I will present our work, *"AI Reveals Systemic Financial Inequities: A Study of CFPB Complaints for Older Adults and Veterans"* at USC’s ShowCAIS Symposium on April 11, 2025.
 - **Jan 22, 2025**: My paper, *"Scalable Estimation of Exponential Random Graph Models on Large Networks"*, has been accepted for presentation in the PhD Symposium at TheWebConference 2025.
