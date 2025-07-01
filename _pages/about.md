@@ -16,8 +16,8 @@ Prior to my doctoral studies, I earned my master's degree in Analytics from USC 
 Feel free to reach out to me at yidans@usc.edu / yidans@isi.edu
 
 ## News
-- **Jun. 23, 2025**: Presented our abstract, *"Collaboration Diversity and Paper Success: Network Analysis of Co-authorship in a Major Machine Learning Conference"* virtually at [The Annual International Social Networks Conference (Sunbelt)](https://sunbelt2025.org/) in Paris, France.
-- **Jun. 16, 2025**: I will presented our abstract, *"Reviewer Rating Variability and Confidence and Language Model Sentiment Prediction of Machine Learning Conference Papers"* at [The 10th International Congress on Peer Review and Scientific Publication]([https://sunbelt2025.org/](https://peerreviewcongress.org/)).
+- **Jun. 23, 2025**: Presented our abstract, *"Collaboration Diversity and Paper Success: *"Network Analysis of Co-authorship in a Major Machine Learning Conference"* virtually at [The Annual International Social Networks Conference (Sunbelt)](https://sunbelt2025.org/) in Paris, France.
+- **Jun. 16, 2025**: I will present our abstract, *"Reviewer Rating Variability and Confidence and Language Model Sentiment Prediction of Machine Learning Conference Papers"* at [The 10th International Congress on Peer Review and Scientific Publication]([https://sunbelt2025.org/](https://peerreviewcongress.org/)).
 - **Apr. 30, 2025**: Presented two papers at [The 2025 ACM Web Conference](https://www2025.thewebconf.org/) in Sydney, Australia.
 - **Apr. 11, 2025**: Presented our work, *"AI Reveals Systemic Financial Inequities: A Study of CFPB Complaints for Older Adults and Veterans"* at USC’s ShowCAIS Symposium.
 - **Mar. 11, 2025**: Presented our work, *"Understanding the Drivers of Human Trafficking Using Massive Multi-Partite Network Modeling and Analytics,"* at USC’s Cloudwalkers Premiere.
