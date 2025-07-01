@@ -35,7 +35,6 @@ author_profile: true
 ---
 
 # Presentations
-
 - **Poster Presentation:** "Modelling campaign finance data using network science to map structures and flows of influence", Southern California Applied Mathematics Symposium (SOCAMS), April 22, 2023.  
 - **Oral Presentation:** "DeepGraph: Multi-Cluster Interactive Visualization of Complex Networks in a Learned Representation Space", Advances in Social Networks Analysis and Mining (ASONAM), Nov. 6, 2023.  
 - **Oral Presentation:** "A structural study of Big Tech firm-switching of inventors in the post-recession era", Advances in Social Networks Analysis and Mining (ASONAM), Nov. 7, 2023.  
