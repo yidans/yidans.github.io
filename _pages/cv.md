@@ -39,7 +39,8 @@ redirect_from:
 
 **University of Southern California**  
 - **Teaching Assistant:**  
-  - ISE 540: Text Analytics *(Fall 2023, Spring 2025)*  
+  - ISE 540: Text Analytics *(Fall 2023, Spring 2025, Summer 2025)*
+  - ISE 561: Economic Analysis of Engineering Projects *(Summer 2025)* 
 
 ---
 
