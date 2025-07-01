@@ -16,14 +16,15 @@ Prior to my doctoral studies, I earned my master's degree in Analytics from USC 
 Feel free to reach out to me at yidans@usc.edu / yidans@isi.edu
 
 ## News
-- **Feb 21, 2025**: I will present our work, *"Understanding the Drivers of Human Trafficking Using Massive Multi-Partite Network Modeling and Analytics,"* at USC’s Cloudwalkers Premiere on March 11, 2025.
-- **Feb 20, 2025**: I will present our work, *"AI Reveals Systemic Financial Inequities: A Study of CFPB Complaints for Older Adults and Veterans"* at USC’s ShowCAIS Symposium on April 11, 2025.
-- **Jan 22, 2025**: My paper, *"Scalable Estimation of Exponential Random Graph Models on Large Networks"*, has been accepted for presentation in the PhD Symposium at TheWebConference 2025.
-- **Jan 20, 2025**: Our work, *"Navigating Semantic Relations: Challenges for Language Models in Abstract Common-Sense Reasoning"* has been accepted for presentation in the Short Paper track at TheWebConference 2025.
-- **Dec 24, 2024**: My study, *"A Study of Firm-Switching of Inventors in Big Tech Using Public Patent Data,"* has been published as Chapter 12 in Springer’s *Social Network Analysis and Mining Applications in Healthcare and Anomaly Detection.*
-- **Sep 3, 2024**: Passed the ISE PhD screening exam with my presentation titled *"Structural Modeling of Campaign Money Flow in the United States House of Representatives."*
+- **Jun. 23, 2025**: Presented our abstract, *"Collaboration Diversity and Paper Success: Network Analysis of Co-authorship in a Major Machine Learning Conference"* virtually at [The Annual International Social Networks Conference (Sunbelt)](https://sunbelt2025.org/) in Paris, France.
+- **Jun. 16, 2025**: I will presented our abstract, *"Reviewer Rating Variability and Confidence and Language Model Sentiment Prediction of Machine Learning Conference Papers"* at [The 10th International Congress on Peer Review and Scientific Publication]([https://sunbelt2025.org/](https://peerreviewcongress.org/)).
+- **Apr. 30, 2025**: Presented two papers at [The 2025 ACM Web Conference](https://www2025.thewebconf.org/) in Sydney, Australia.
+- **Apr. 11, 2025**: Presented our work, *"AI Reveals Systemic Financial Inequities: A Study of CFPB Complaints for Older Adults and Veterans"* at USC’s ShowCAIS Symposium.
+- **Mar. 11, 2025**: Presented our work, *"Understanding the Drivers of Human Trafficking Using Massive Multi-Partite Network Modeling and Analytics,"* at USC’s Cloudwalkers Premiere.
+- **Dec. 24, 2024**: My study, *"A Study of Firm-Switching of Inventors in Big Tech Using Public Patent Data,"* has been published as Chapter 12 in Springer’s *Social Network Analysis and Mining Applications in Healthcare and Anomaly Detection.*
+- **Sep. 3, 2024**: Passed the ISE PhD screening exam with my presentation titled *"Structural Modeling of Campaign Money Flow in the United States House of Representatives."*
 - **May 2, 2024**: Received the *Jenny Wang Excellence in Teaching Award* from the USC Viterbi School of Engineering.
-- **April 28, 2024**: Honored as the *Outstanding Teaching Assistant of the Year* by the Daniel J. Epstein Department of Industrial and Systems Engineering.
-- **November 6, 2023**: Presented two papers at [The 2023 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining](https://asonam.cpsc.ucalgary.ca/2023/) in Kusadasi, Turkey.
-- **November 4, 2023**: A press article on our work about patent networks in Big Tech is published. Read: [Big Tech Inventor Mobility Leads to Higher Productivity](https://www.isi.edu/news/60985/big-tech-inventor-mobility-leads-to-higher-productivity/).
+- **Apr. 28, 2024**: Honored as the *Outstanding Teaching Assistant of the Year* by the Daniel J. Epstein Department of Industrial and Systems Engineering.
+- **Nov. 6, 2023**: Presented two papers at [The 2023 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining](https://asonam.cpsc.ucalgary.ca/2023/) in Kusadasi, Turkey.
+- **Nov. 4, 2023**: A press article on our work about patent networks in Big Tech is published. Read: [Big Tech Inventor Mobility Leads to Higher Productivity](https://www.isi.edu/news/60985/big-tech-inventor-mobility-leads-to-higher-productivity/).
 
