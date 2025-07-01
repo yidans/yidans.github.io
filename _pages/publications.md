@@ -20,9 +20,6 @@ author_profile: true
 - Sun, Y., & Kejriwal, M. (2023). [DeepGraph: Multi-Cluster Interactive Visualization of Complex Networks in a Learned Representation Space](https://dl.acm.org/doi/pdf/10.1145/3625007.3627515). *In Proceedings of the International Conference on Advances in Social Networks Analysis and Mining 2023* (pp. 427-430).  
 
 ---
-# Accepted
-
----
 
 # Under Review 
 - Patil, V., Bacha, S. V., Yamani, R., Sun, Y., & Kejriwal, M. (2024). Beyond the Star Rating: A Scalable Framework for Aspect-Based Sentiment Analysis Using LLMs and Text Classification. Under review at *Journal of Computational Social Science*, 2024.  
