@@ -25,7 +25,8 @@ author_profile: true
 - Sun, Y., & Kejriwal, M. (2025). Prevalence, Place and Price Analysis of Sex-Work in Southeast Asia: An Empirical Study of an Online Web Advertisement Platform. Under review at *Humanities and Social Sciences Communications*.  
 - Sun, Y., & Kejriwal, M. (2025). Modeling Complex Associations between Climate Change Policies and Sociodemographic Factors using Conditional Inference Trees
 - Patil, V., Bacha, S. V., Yamani, R., Sun, Y., & Kejriwal, M. (2024). Beyond the Star Rating: A Scalable Framework for Aspect-Based Sentiment Analysis Using LLMs and Text Classification. Under review at *Journal of Computational Social Science*.  
-- Sun, Y., & Kejriwal, M. (2024). Structural modeling of campaign finance decisions in the US House of Representatives. Major Revision at *NPJ Complexity*.    
+- Sun, Y., & Kejriwal, M. (2024). Structural modeling of campaign finance decisions in the US House of Representatives. Major Revision at *NPJ Complexity*.
+  
 ---
 
 # Under Preparation
