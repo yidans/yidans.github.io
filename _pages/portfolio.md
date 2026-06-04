@@ -5,14 +5,24 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-## Poster Presentation at the Southern California Applied Mathematics Symposium (SOCAMS 2023) at UC Irvine
-<img src="../images/SOCAMS.jpg" alt="SOCAMS" title="SOCAMS" style="max-width: 50%; height: auto;">
+<div class="gallery-grid">
+  <figure>
+    <img src="/images/SOCAMS.jpg" alt="Poster presentation at SOCAMS 2023">
+    <figcaption>Poster presentation at the Southern California Applied Mathematics Symposium (SOCAMS 2023), UC Irvine.</figcaption>
+  </figure>
 
-## Presentation at the International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2023) in Kusadasi, Turkey
-<img src="../images/ASONAM2023.JPG" alt="Presentation at ASONAM 2023" title="Presentation at ASONAM 2023" style="max-width: 50%; height: auto;">
+  <figure>
+    <img src="/images/ASONAM2023.JPG" alt="Presentation at ASONAM 2023">
+    <figcaption>Presentation at the International Conference on Advances in Social Networks Analysis and Mining (ASONAM 2023), Kusadasi, Turkey.</figcaption>
+  </figure>
 
-## Received the USC Viterbi Jenny Wang Teaching Award
-<img src="../images/JennyWang.JPG" alt="Jenny Wang Teaching Award" title="Jenny Wang Teaching Award" style="max-width: 50%; height: auto;">
+  <figure>
+    <img src="/images/JennyWang.JPG" alt="Receiving the USC Viterbi Jenny Wang Teaching Award">
+    <figcaption>USC Viterbi Jenny Wang Excellence in Teaching Award.</figcaption>
+  </figure>
 
-## Awarded the ISE Outstanding Teaching Assistant of the Year
-<img src="../images/ISETA.jpg" alt="ISETA" title="ISETA" style="max-width: 50%; height: auto;">
+  <figure>
+    <img src="/images/ISETA.jpg" alt="ISE Outstanding Teaching Assistant of the Year recognition">
+    <figcaption>Daniel J. Epstein Department of Industrial and Systems Engineering Outstanding Teaching Assistant of the Year.</figcaption>
+  </figure>
+</div>
