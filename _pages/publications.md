@@ -34,10 +34,8 @@ redirect_from:
 ---
 
 # Preprints and Manuscripts
-- Sun, Y., & Kejriwal, M. (2026). *Network Structure and Market Concentration of Commercial Sex Work in the Caribbean*. Under review.
 - Patil, V., Bacha, S. V., Yamani, R., Sun, Y., & Kejriwal, M. (2026). [Beyond the Star Rating: A Scalable Framework for Aspect-Based Sentiment Analysis Using LLMs and Text Classification](https://arxiv.org/abs/2602.21082). *arXiv preprint arXiv:2602.21082*. Under review at *Journal of Computational Social Science*.
 - Sun, Y., & Kejriwal, M. (2025). *Discovery of Theoretically Grounded Exponential Random Graph Models for Complex Networks with Large Language Models*. Under review at *The Web Conference (TheWebConf) 2026*.
-- Sun, Y., & Kejriwal, M. (2025). *Mapping the Growth and Geography of Online Sex Work in Southeast Asia*. Under review at *Humanities and Social Sciences Communications*.
 - Sun, Y., & Kejriwal, M. (2025). *Modeling Complex Associations between Climate Change Policies and Sociodemographic Factors using Conditional Inference Trees*. Under review at *Humanities and Social Sciences Communications*.
   
 ---
@@ -50,7 +48,7 @@ redirect_from:
 - **Poster Presentation:** "Scalable Estimation of Exponential Random Graph Models on Large Networks", The Web Conference (TheWebConf), May 13, 2025.
 - **Oral Presentation:** "Navigating Semantic Relations: Challenges for Large Language Models in Abstract Common-Sense Reasoning", The Web Conference (TheWebConf), May 13, 2025.
 - **Oral Presentation:** "AI Reveals Systemic Financial Inequities: A Study of CFPB Complaints for Older Adults and Veterans", USC ShowCAIS Symposium, Apr. 2025.
-- **Oral Presentation:** "Understanding the Drivers of Human Trafficking Using Massive Multi-Partite Network Modeling and Analytics", USC Cloudwalkers Premiere, Mar. 2025.
+- **Oral Presentation:** "Massive Multi-Partite Network Modeling and Analytics", USC Cloudwalkers Premiere, Mar. 2025.
 - **Poster Presentation:** "Modelling campaign finance data using network science to map structures and flows of influence", Southern California Applied Mathematics Symposium (SOCAMS), Apr. 22, 2023.
 - **Oral Presentation:** "A structural study of Big Tech firm-switching of inventors in the post-recession era", Advances in Social Networks Analysis and Mining (ASONAM), Nov. 7, 2023.
 - **Oral Presentation:** "DeepGraph: Multi-Cluster Interactive Visualization of Complex Networks in a Learned Representation Space", Advances in Social Networks Analysis and Mining (ASONAM), Nov. 6, 2023.
