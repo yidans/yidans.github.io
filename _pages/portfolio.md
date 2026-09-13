@@ -7,6 +7,13 @@ author_profile: true
 
 <div class="gallery-grid">
   <figure>
+    <a href="{{ '/images/IMG_2255.JPG' | relative_url }}">
+      <img src="{{ '/images/IMG_2255.JPG' | relative_url }}" class="gallery-image--portrait" alt="Yidan Sun with a koala during The Web Conference 2025 in Sydney, Australia" loading="lazy" width="3024" height="4030">
+    </a>
+    <figcaption>A koala encounter during The Web Conference 2025 in Sydney, Australia.</figcaption>
+  </figure>
+
+  <figure>
     <img src="/images/SOCAMS.jpg" alt="Poster presentation at SOCAMS 2023">
     <figcaption>Poster presentation at the Southern California Applied Mathematics Symposium (SOCAMS 2023), UC Irvine.</figcaption>
   </figure>

@@ -7,15 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Yidan Sun, and I am a PhD student in the [Daniel J. Epstein Department of Industrial & Systems Engineering](https://ise.usc.edu/) at the Viterbi School of Engineering, University of Southern California. I am a member of the [Artificial Intelligence and Complex Systems (AICS)](https://aicomplex.github.io/) group at USC Information Sciences Institute, working under the supervision of Dr. [Mayank Kejriwal](https://viterbi.usc.edu/directory/faculty/Kejriwal/Mayank).
+Hi! My name is Yidan Sun, and I am a PhD candidate in the [Daniel J. Epstein Department of Industrial & Systems Engineering](https://ise.usc.edu/) at the Viterbi School of Engineering, University of Southern California, with an expected graduation date of May 2027. I am a member of the [Artificial Intelligence and Complex Systems (AICS)](https://aicomplex.github.io/) group at USC Information Sciences Institute, working under the supervision of Dr. [Mayank Kejriwal](https://viterbi.usc.edu/directory/faculty/Kejriwal/Mayank).
 
-My research interests span network science, complex systems, computational social science, text analytics, and statistical modeling of network data. I am particularly interested in analyzing large-scale complex systems and applying computational approaches to socially important domains. My other ongoing research projects explore science of science topics, including collaboration networks focusing on scholarly publications and grant proposals, and broader social science topics, such as internal migration in the United States and financial inequities among vulnerable populations.
+My research focuses on computational social science, network science and statistical network models, LLM-based agentic systems for scientific discovery, and the reliability and grounding of AI-generated research. My dissertation studies the discovery of network formation processes through LLM-guided exponential random graph models.
+
+I am also the founder and lead developer of the [Global Trafficking Intelligence Hub](https://globaltrafficking.org), a public knowledge hub that brings together human-trafficking reports, datasets, legal resources, and academic research for practitioners, policymakers, and researchers.
 
 Prior to my doctoral studies, I earned my master's degree in Analytics from USC in 2022 and my bachelor's degree in Statistics from [The Chinese University of Hong Kong, Shenzhen](https://sds.cuhk.edu.cn/en), in 2020.
 
 Feel free to reach out to me at yidans@usc.edu / yidans@isi.edu
 
 ## News
+
+- **Aug. 4, 2026**: Our climate-beliefs research was featured in *Anthropocene Magazine* in *"A majority of Americans don't actually fit either climate camp."*
+- **Aug. 1-2, 2026**: Presented the poster, *"Building reliable PhD-level agents for computational research,"* at the Agentic AI Summit at the University of California, Berkeley.
+- **Jul. 21, 2026**: Published [*"5 lessons from 20 years of climate surveys: Political party matters, but it doesn't explain everything"*](https://theconversation.com/5-lessons-from-20-years-of-climate-surveys-political-party-matters-but-it-doesnt-explain-everything-287056) in *The Conversation*; the article was syndicated by *The Washington Post*, *NationofChange*, and *ArcaMax*.
+- **Jun. 22, 2026**: Our paper, *"Modeling complex associations between socio-demographic factors and climate policies using Conditional Inference Trees,"* was published in [Humanities and Social Sciences Communications](https://www.nature.com/articles/s41599-026-07994-3).
 - **May 13, 2026**: Our paper, *"Structural modeling of campaign finance decisions in the U.S. House of Representatives,"* was published in [PLOS Complex Systems](https://journals.plos.org/complexsystems/article?id=10.1371/journal.pcsy.0000104).
 - **Mar. 26, 2026**: Our paper, *"Examining persistent inequities in financial complaint resolution for older Americans and veterans in the United States,"* was published in [PNAS Nexus](https://academic.oup.com/pnasnexus/article-abstract/doi/10.1093/pnasnexus/pgag086/8541488).
 - **Jan. 12, 2026**: Passed the PhD qualifying exam.
@@ -24,6 +31,7 @@ Feel free to reach out to me at yidans@usc.edu / yidans@isi.edu
 - **Jun. 23, 2025**: Presented our abstract, *"Collaboration Diversity and Paper Success: Network Analysis of Co-authorship in a Major Machine Learning Conference"* virtually at [The Annual International Social Networks Conference (Sunbelt)](https://sunbelt2025.org/online-session/) in Paris, France.
 - **Apr. 30, 2025**: Presented two papers at [The 2025 ACM Web Conference](https://www2025.thewebconf.org/) in Sydney, Australia.
 - **Apr. 11, 2025**: Presented our work, *"AI Reveals Systemic Financial Inequities: A Study of CFPB Complaints for Older Adults and Veterans"* at USC’s ShowCAIS Symposium.
+- **Mar. 20, 2025**: Our paper, *"Backlash or reinforcement? Donald Trump's 2017 inauguration and shifting climate beliefs in the United States,"* was published in [npj Climate Action](https://www.nature.com/articles/s44168-025-00230-9).
 - **Mar. 11, 2025**: Presented our work on massive multi-partite network modeling and analytics at USC’s Cloudwalkers Premiere.
 - **Dec. 24, 2024**: My study, *"A Study of Firm-Switching of Inventors in Big Tech Using Public Patent Data,"* has been published as Chapter 12 in Springer’s *Social Network Analysis and Mining Applications in Healthcare and Anomaly Detection.*
 - **Sep. 3, 2024**: Passed the ISE PhD screening exam with my presentation titled *"Structural Modeling of Campaign Money Flow in the United States House of Representatives."*
