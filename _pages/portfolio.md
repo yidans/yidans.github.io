@@ -7,6 +7,13 @@ author_profile: true
 
 <div class="gallery-grid">
   <figure>
+    <a href="{{ '/images/aias-2026-yidan-sun-mayank-kejriwal.jpg' | relative_url }}">
+      <img src="{{ '/images/aias-2026-yidan-sun-mayank-kejriwal.jpg' | relative_url }}" alt="Yidan Sun and Mayank Kejriwal beside their research poster" width="1280" height="960">
+    </a>
+    <figcaption>With my advisor, Mayank Kejriwal, at AIAS+ 2026 in San Francisco.</figcaption>
+  </figure>
+
+  <figure>
     <a href="{{ '/images/IMG_2255.JPG' | relative_url }}">
       <img src="{{ '/images/IMG_2255.JPG' | relative_url }}" class="gallery-image--portrait" alt="Yidan Sun with a koala during The Web Conference 2025 in Sydney, Australia" loading="lazy" width="3024" height="4030">
     </a>
