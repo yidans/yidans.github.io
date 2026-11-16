@@ -19,6 +19,9 @@ Feel free to reach out to me at yidans@usc.edu / yidans@isi.edu
 
 ## News
 
+- **Nov. 15, 2026**: “Building discoverative AI ecosystems for supporting high-quality agentic science” was accepted for publication in the AIAS+ 2026 proceedings (ACM ICPS).
+- **Nov. 13, 2026**: “FORGE: An LLM-assisted system for proposing and testing explanations of network tie formation” was accepted to the Demonstration Track at AAAI-27.
+- **Nov. 5–7, 2026**: We gave a talk on agentic science and presented a poster on hallucinated references in AI-generated publications at AIAS+ in San Francisco.
 - **Aug. 4, 2026**: Our climate-beliefs research was featured in *Anthropocene Magazine* in *"A majority of Americans don't actually fit either climate camp."*
 - **Aug. 1-2, 2026**: Presented the poster, *"Building reliable PhD-level agents for computational research,"* at the Agentic AI Summit at the University of California, Berkeley.
 - **Jul. 21, 2026**: Published [*"5 lessons from 20 years of climate surveys: Political party matters, but it doesn't explain everything"*](https://theconversation.com/5-lessons-from-20-years-of-climate-surveys-political-party-matters-but-it-doesnt-explain-everything-287056) in *The Conversation*; the article was syndicated by *The Washington Post*, *NationofChange*, and *ArcaMax*.
@@ -26,13 +29,13 @@ Feel free to reach out to me at yidans@usc.edu / yidans@isi.edu
 - **May 13, 2026**: Our paper, *"Structural modeling of campaign finance decisions in the U.S. House of Representatives,"* was published in [PLOS Complex Systems](https://journals.plos.org/complexsystems/article?id=10.1371/journal.pcsy.0000104).
 - **Mar. 26, 2026**: Our paper, *"Examining persistent inequities in financial complaint resolution for older Americans and veterans in the United States,"* was published in [PNAS Nexus](https://academic.oup.com/pnasnexus/article-abstract/doi/10.1093/pnasnexus/pgag086/8541488).
 - **Jan. 12, 2026**: Passed the PhD qualifying exam.
-- **Nov. 6-9, 2025**: Presented the poster, *"Mapping Collaboration in AI-Driven Firms: A Co-Inventor Dataset (2020-2025),"* at the International Conference of the Computational Social Science Society of the Americas (CSSSA) in Washington, D.C.
-- **Sep. 3-5, 2025**: Presented our abstract, *"Reviewer Rating Variability and Confidence and Language Model Sentiment Prediction of Machine Learning Conference Papers,"* at [The 10th International Congress on Peer Review and Scientific Publication](https://peerreviewcongress.org/abstract/reviewer-rating-variability-and-confidence-and-language-model-sentiment-prediction-of-machine-learning-conference-papers/) in Chicago, IL.
-- **Jun. 23, 2025**: Presented our abstract, *"Collaboration Diversity and Paper Success: Network Analysis of Co-authorship in a Major Machine Learning Conference"* virtually at [The Annual International Social Networks Conference (Sunbelt)](https://sunbelt2025.org/online-session/) in Paris, France.
-- **Apr. 30, 2025**: Presented two papers at [The 2025 ACM Web Conference](https://www2025.thewebconf.org/) in Sydney, Australia.
+- **Nov. 6-9, 2025**: Presented the poster, *"Mapping Collaboration in AI-Driven Firms: A Co-Inventor Dataset (2020-2025),"* at the International Conference of the Computational Social Science Society of the Americas (CSSSA) in Santa Fe, NM.
+- **Sep. 3-5, 2025**: Presented our poster on reviewer ratings and language model sentiment prediction online at the [10th International Congress on Peer Review and Scientific Publication](https://peerreviewcongress.org/abstract/reviewer-rating-variability-and-confidence-and-language-model-sentiment-prediction-of-machine-learning-conference-papers/).
+- **Jun. 23, 2025**: Presented our abstract, *"Collaboration Diversity and Paper Success: Network Analysis of Co-authorship in a Major Machine Learning Conference"* online at the [INSNA Sunbelt Conference](https://sunbelt2025.org/online-session/).
+- **Apr. 28–May 2, 2025**: Our work on semantic relations and language models was presented at [The 2025 ACM Web Conference](https://www2025.thewebconf.org/) in Sydney, Australia. I presented my work on scalable estimation of exponential random graph models at the PhD Symposium on Apr. 29.
 - **Apr. 11, 2025**: Presented our work, *"AI Reveals Systemic Financial Inequities: A Study of CFPB Complaints for Older Adults and Veterans"* at USC’s ShowCAIS Symposium.
 - **Mar. 20, 2025**: Our paper, *"Backlash or reinforcement? Donald Trump's 2017 inauguration and shifting climate beliefs in the United States,"* was published in [npj Climate Action](https://www.nature.com/articles/s44168-025-00230-9).
-- **Mar. 11, 2025**: Presented our work on massive multi-partite network modeling and analytics at USC’s Cloudwalkers Premiere.
+- **Mar. 11, 2025**: Presented a poster on massive multi-partite network modeling and analytics at USC’s Cloudwalkers Premiere.
 - **Dec. 24, 2024**: My study, *"A Study of Firm-Switching of Inventors in Big Tech Using Public Patent Data,"* has been published as Chapter 12 in Springer’s *Social Network Analysis and Mining Applications in Healthcare and Anomaly Detection.*
 - **Sep. 3, 2024**: Passed the ISE PhD screening exam with my presentation titled *"Structural Modeling of Campaign Money Flow in the United States House of Representatives."*
 - **May 2, 2024**: Received the *Jenny Wang Excellence in Teaching Award* from the USC Viterbi School of Engineering.
